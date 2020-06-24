@@ -25,7 +25,7 @@ npm start
 
 
 
-[1] https://tailwindcss.com/
-[2] https://github.com/postcss/postcss-import
-[3] https://github.com/postcss/postcss
-[4] https://sass-lang.com/
+[1]: https://tailwindcss.com/
+[2]: https://github.com/postcss/postcss-import
+[3]: https://github.com/postcss/postcss
+[4]: https://sass-lang.com/
